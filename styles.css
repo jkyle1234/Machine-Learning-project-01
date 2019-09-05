@@ -1,0 +1,52 @@
+
+
+.titleArea{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:   yellow;
+}
+
+.imageArea{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonarea{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.resultArea{
+	width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imageButton{
+    padding:10px;
+    color:white;
+    background-color:#009578;
+    border:1px solid #000000;
+    border-radius:5px;
+
+}
+
+#classify{
+    padding:10px;
+    color:white;
+    background-color:#009578;
+    border:1px solid #000000;
+    border-radius:5px;
+
+}
