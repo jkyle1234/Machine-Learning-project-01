@@ -2,4 +2,4 @@
 This is an image classifer project using tensorflow.js. You can download the repo and open index.html in a browser then select and image and click on classify button to get a result!!
 <br\>
 <br\>
-
+<img src="classifier.png">
